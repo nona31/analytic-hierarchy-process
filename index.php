@@ -27,7 +27,7 @@ include('header.php');
 				<thead>
 					<tr>
 						<th>Nomor</th>
-						<th>Data Yang Terstruktur</th>
+						<th>Data</th>
 					</tr>
 				</thead>
 				<tbody>
