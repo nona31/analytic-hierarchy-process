@@ -2,14 +2,14 @@
 <html>
 <head>
 	<meta charset="UTF-8">
-	<title>Sistem Pendukung Keputusan metode AHP</title>
+	<title>Marsela Nunes Asqueli (201011400525)</title>
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 	<link rel="stylesheet" type="text/css" href="semantic/dist/semantic.min.css">
 </head>
 
 <body>
 <header>
-	<h1>Sistem Pendukung Keputusan dengan metode AHP</h1>
+	<h1>Marsela Nunes Asqueli (201011400525)</h1>
 </header>
 
 <div class="wrapper">
