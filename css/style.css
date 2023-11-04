@@ -62,27 +62,27 @@ nav {
 
 body {
 	margin: 0;
-	background: #B0E0E6;
+	background: #F0FFF0;
 }
 header, nav, section, footer {
 	padding: 10px 30px;
 	margin: 0;
-	color: #B0E0E6;
+	color: #F0FFF0;
 }
 header {
-	background: #DB7093;
+	background: #FFDAB9;
   text-align: center;
   padding: 30px;
 }
 nav {
-	background: #DB7093;
+	background: #FFDAB9;
 	padding: 0;
 }
 nav a {
   display: block;
   font-weight: 900;
   padding: .5em 1em;
-  color: #B0E0E6;
+  color: #F0FFF0;
   text-decoration: none;
 }
 ul {
@@ -91,21 +91,21 @@ ul {
 }
 
 li:hover {
-	background: #B0E0E6;
+	background: #F0FFF0;
 	transition: all .3s ease-in;
 }
 
 
 li:hover a {
-	color: #191970;
+	color: #000000;
 }
 
 section {
-	background: #B0E0E6;
-  color: #191970;
+	background: #F0FFF0;
+  color: #000000;
   padding: 30px;
 }
 footer {
-	background: #DB7093;
+	background: #FFDAB9;
   text-align: center;
 }
