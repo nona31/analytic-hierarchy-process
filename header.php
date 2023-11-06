@@ -2,14 +2,14 @@
 <html>
 <head>
 	<meta charset="UTF-8">
-	<title>Marsela Nunes Asqueli (201011400525)</title>
+	<title>Mauhammad Furqan Awaludin (201011400530)</title>
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 	<link rel="stylesheet" type="text/css" href="semantic/dist/semantic.min.css">
 </head>
 
 <body>
 <header>
-	<h1>Marsela Nunes Asqueli (201011400525)</h1>
+	<h1>Mauhammad Furqan Awaludin (201011400530)</h1>
 </header>
 
 <div class="wrapper">
