@@ -70,12 +70,12 @@ header, nav, section, footer {
 	color: #F8F8FF;
 }
 header {
-	background: #E0FFFF;
+	background: #5F9EA0;
   text-align: center;
   padding: 30px;
 }
 nav {
-	background: #E0FFFF;
+	background: #5F9EA0;
 	padding: 0;
 }
 nav a {
@@ -106,6 +106,6 @@ section {
   padding: 30px;
 }
 footer {
-	background: #b9e6ff;
+	background: #5F9EA0;
   text-align: center;
 }
