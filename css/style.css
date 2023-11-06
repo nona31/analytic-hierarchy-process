@@ -70,12 +70,12 @@ header, nav, section, footer {
 	color: ##F8F8FF;
 }
 header {
-	background: #FFDAB9;
+	background: #b9e9ff;
   text-align: center;
   padding: 30px;
 }
 nav {
-	background: #FFDAB9;
+	background: #b9edff;
 	padding: 0;
 }
 nav a {
@@ -91,21 +91,21 @@ ul {
 }
 
 li:hover {
-	background: ##F8F8FF;
+	background: #F8F8FF;
 	transition: all .3s ease-in;
 }
 
 
 li:hover a {
-	color: #000000;
+	color: #00FFFF;
 }
 
 section {
 	background: #F8F8FF;
-  color: #000000;
+  color: #00FFFF;
   padding: 30px;
 }
 footer {
-	background: #FFDAB9;
+	background: #b9e6ff;
   text-align: center;
 }
